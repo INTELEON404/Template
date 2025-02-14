@@ -33,3 +33,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackinter&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackinter&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackinter&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+
