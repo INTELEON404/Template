@@ -23,3 +23,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackinter&show_icons=true&locale=en" alt="hackinter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackinter&" alt="hackinter" /></p>
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hackinter&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackinter&theme=redical" alt="GitHub Activity Graph"/>
+</p>
