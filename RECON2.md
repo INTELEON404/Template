@@ -1,6 +1,6 @@
 # 🔍 Automated Recon & Vulnerability Scanning Toolkit (2025 Ultimate Edition)
 
-> **By 0xINTELEON404 | Offensive Security Specialist | Crafted with ❤️ for Web Attack Surface Mastery**
+> **By INTELEON404 | Offensive Security Specialist | Crafted with ❤️ for Web Attack Surface Mastery**
 
 ---
 
