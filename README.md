@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm INTELEON404</h1>
+<img align="center" alt="GIF" src="https://github.com/hackinter/Template/blob/main/code.gif?raw=true" width="500" height="320" />
 <h3 align="center">Hacking is not a crime; it’s an art form in the hands of a master. 🎨🖥️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackinter&label=Profile%20views&color=0e75b6&style=flat" alt="hackinter" /> </p>
