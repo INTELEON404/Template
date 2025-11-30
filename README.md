@@ -175,5 +175,7 @@
 
 ### 3D
 
-![svg](https://raw.githubusercontent.com/INTELEON404/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+[![svg](https://raw.githubusercontent.com/INTELEON404/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/INTELEON404?cardType=octocat&preferLogin=true&Background=E9E9E9)](https://git.io/awesome-stats-card)
 
