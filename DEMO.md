@@ -100,5 +100,12 @@
 </div>
 
 ###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/INTELEON404/INTELEON404/output/snake.svg" alt="Snake animation" />
+
+###
 
 
