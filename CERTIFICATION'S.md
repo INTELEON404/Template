@@ -16,8 +16,11 @@
 >GOOGLE CYBERSECURITY CERTIFICATE
 ![](https://github.com/INTELEON404/Template/blob/main/CERTIFICATIONS/gccpc.png)
 >
->DG
+>CYBER SECURITY & ETHICAL HACKING
 ![](https://github.com/INTELEON404/Template/blob/main/CERTIFICATIONS/Sheikh%20Mohammad%20Adil.png)
+>
+>ETHICAL HACKING FOR PROFESSIONALS
+>![]()
 
 
 
