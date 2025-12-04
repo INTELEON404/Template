@@ -14,5 +14,8 @@
 ![](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-JIFQW0CVBL.png)
 
 >ETHICALLY HACK THE PLANET
+
 ![](https://i.ibb.co.com/6JH16nNH/photo-collage-png.png)
+>
+![](https://github.com/INTELEON404/Template/blob/main/CERTIFICATIONS/gccpc.pdf)
 
